@@ -1,0 +1,20 @@
+{
+  "name": "外傭僱傭助手",
+  "short_name": "僱傭助手",
+  "description": "香港外傭與僱主共用的本機規劃工具：合約、假期、工作安排、工作守則、買餸清單與薪金估算。",
+  "lang": "zh-HK",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14342E",
+  "theme_color": "#14342E",
+  "icons": [
+    {
+      "src": "./icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
